@@ -7,6 +7,15 @@
 * npm install moment --save
 
 
+## Optional Installs
+* Chai - Should, Expect, and Assert
+* Should
+* CoffeeScript - Installed this one globally
+  * npm i coffee-script -g
 
-Tips:
-alias l="ls -la"
+## Tips
+* For Terminal - alias l="ls -la"
+
+## Notes
+* Simplicity Wins In The Long Run
+  * The fewer dependencies the better. 
