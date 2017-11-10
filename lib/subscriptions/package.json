@@ -1,0 +1,11 @@
+{
+  "name": "subscriptions",
+  "version": "0.0.1",
+  "description": "The subscription module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nathan Stanford Sr <Nathan.Stanford@gmail.com>",
+  "license": "MIT"
+}
