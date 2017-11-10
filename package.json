@@ -1,0 +1,30 @@
+{
+	"name": "nodemocha",
+	"version": "1.0.0",
+	"description": "Example of Node and Mocha testing app",
+	"main": "index.js",
+	"directories": {
+		"test": "test"
+	},
+	"dependencies": {
+		"moment": "^2.19.1"
+	},
+	"devDependencies": {
+		"mocha": "^4.0.1",
+		"sinon": "^4.1.2"
+	},
+	"scripts": {
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nastanford/nodemocha.git"
+	},
+	"keywords": ["node", "mocha"],
+	"author": "Nathan Stanford Sr",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/nastanford/nodemocha/issues"
+	},
+	"homepage": "https://github.com/nastanford/nodemocha#readme"
+}
